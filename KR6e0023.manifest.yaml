@@ -1,0 +1,844 @@
+canonical_identifier: bkk:krp/KR6e0023/v1
+canonical_location: https://kanripo.org/bkk/KR6e0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大方廣佛華嚴經中卷卷大意略敘
+  identifiers:
+    alt_id:
+    - T36n1740
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T36/T36n1740.xml
+    old_id: T36n1740
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0023_000.yaml, hash: 'sha256:1d34f4b2b938ddd37000ab5a0257bab4fb002b95eaf94c5b587be4aa42f29707'}
+  - {seq: 1, filename: KR6e0023_001.yaml, hash: 'sha256:ddd9b1256e9b241b96a10351d171cb6b34123bc8f09f9aa993f7917c6c48968c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0023_001.markers.yaml, hash: 'sha256:f796922eabf2e3f4676f1c082c50801c17ae42c5fbe99718b432efbb45b31650'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2986
+  label: '大方廣佛華嚴經中卷卷大意略
+
+    敘'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-2
+    span:
+    - body
+    - 57
+    - 57
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-3
+    span:
+    - body
+    - 79
+    - 79
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-4
+    span:
+    - body
+    - 102
+    - 102
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-5
+    span:
+    - body
+    - 125
+    - 125
+  label: 第五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-6
+    span:
+    - body
+    - 154
+    - 154
+  label: 第六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-7
+    span:
+    - body
+    - 188
+    - 188
+  label: 第七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-8
+    span:
+    - body
+    - 232
+    - 232
+  label: 第八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-9
+    span:
+    - body
+    - 260
+    - 260
+  label: 第九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-10
+    span:
+    - body
+    - 291
+    - 291
+  label: 第十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-11
+    span:
+    - body
+    - 330
+    - 330
+  label: 第十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-12
+    span:
+    - body
+    - 368
+    - 368
+  label: 第十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-13
+    span:
+    - body
+    - 423
+    - 423
+  label: 第十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-14
+    span:
+    - body
+    - 466
+    - 466
+  label: 第十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-15
+    span:
+    - body
+    - 510
+    - 510
+  label: 第十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-16
+    span:
+    - body
+    - 544
+    - 544
+  label: 第十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-17
+    span:
+    - body
+    - 603
+    - 603
+  label: 第十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-18
+    span:
+    - body
+    - 648
+    - 648
+  label: 第十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-19
+    span:
+    - body
+    - 683
+    - 683
+  label: 第十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-20
+    span:
+    - body
+    - 744
+    - 744
+  label: 第二十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-21
+    span:
+    - body
+    - 779
+    - 779
+  label: 第二十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-22
+    span:
+    - body
+    - 819
+    - 819
+  label: 第二十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-23
+    span:
+    - body
+    - 861
+    - 861
+  label: 第二十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-24
+    span:
+    - body
+    - 897
+    - 897
+  label: 第二十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-25
+    span:
+    - body
+    - 935
+    - 935
+  label: 第二十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-26
+    span:
+    - body
+    - 961
+    - 961
+  label: 第二十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-27
+    span:
+    - body
+    - 984
+    - 984
+  label: 第二十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-28
+    span:
+    - body
+    - 1016
+    - 1016
+  label: 第二十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-29
+    span:
+    - body
+    - 1046
+    - 1046
+  label: 第二十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-30
+    span:
+    - body
+    - 1076
+    - 1076
+  label: 第三十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-31
+    span:
+    - body
+    - 1101
+    - 1101
+  label: 第三十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-32
+    span:
+    - body
+    - 1131
+    - 1131
+  label: 第三十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-33
+    span:
+    - body
+    - 1163
+    - 1163
+  label: 第三十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-34
+    span:
+    - body
+    - 1188
+    - 1188
+  label: 第三十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-35
+    span:
+    - body
+    - 1240
+    - 1240
+  label: 第三十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-36
+    span:
+    - body
+    - 1270
+    - 1270
+  label: 第三十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-37
+    span:
+    - body
+    - 1303
+    - 1303
+  label: 第三十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-38
+    span:
+    - body
+    - 1330
+    - 1330
+  label: 第三十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-39
+    span:
+    - body
+    - 1368
+    - 1368
+  label: 第三十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-40
+    span:
+    - body
+    - 1407
+    - 1407
+  label: 第四十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-41
+    span:
+    - body
+    - 1462
+    - 1462
+  label: 第四十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-42
+    span:
+    - body
+    - 1493
+    - 1493
+  label: 第四十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-43
+    span:
+    - body
+    - 1523
+    - 1523
+  label: 第四十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-44
+    span:
+    - body
+    - 1554
+    - 1554
+  label: 第四十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-45
+    span:
+    - body
+    - 1595
+    - 1595
+  label: 第四十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-46
+    span:
+    - body
+    - 1643
+    - 1643
+  label: 第四十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-47
+    span:
+    - body
+    - 1689
+    - 1689
+  label: 第四十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-48
+    span:
+    - body
+    - 1720
+    - 1720
+  label: 第四十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-49
+    span:
+    - body
+    - 1766
+    - 1766
+  label: 第四十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-50
+    span:
+    - body
+    - 1800
+    - 1800
+  label: 第五十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-51
+    span:
+    - body
+    - 1840
+    - 1840
+  label: 第五十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-52
+    span:
+    - body
+    - 1872
+    - 1872
+  label: 第五十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-53
+    span:
+    - body
+    - 1904
+    - 1904
+  label: 第五十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-54
+    span:
+    - body
+    - 1960
+    - 1960
+  label: 第五十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-55
+    span:
+    - body
+    - 1989
+    - 1989
+  label: 第五十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-56
+    span:
+    - body
+    - 2018
+    - 2018
+  label: 第五十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-57
+    span:
+    - body
+    - 2049
+    - 2049
+  label: 第五十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-58
+    span:
+    - body
+    - 2078
+    - 2078
+  label: 第五十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-59
+    span:
+    - body
+    - 2109
+    - 2109
+  label: 第五十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-60
+    span:
+    - body
+    - 2142
+    - 2142
+  label: 第六十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-61
+    span:
+    - body
+    - 2200
+    - 2200
+  label: 第六十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-62
+    span:
+    - body
+    - 2233
+    - 2233
+  label: 第六十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-63
+    span:
+    - body
+    - 2262
+    - 2262
+  label: 第六十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-64
+    span:
+    - body
+    - 2297
+    - 2297
+  label: 第六十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-65
+    span:
+    - body
+    - 2331
+    - 2331
+  label: 第六十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-66
+    span:
+    - body
+    - 2360
+    - 2360
+  label: 第六十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-67
+    span:
+    - body
+    - 2395
+    - 2395
+  label: 第六十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-68
+    span:
+    - body
+    - 2433
+    - 2433
+  label: 第六十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-69
+    span:
+    - body
+    - 2468
+    - 2468
+  label: 第六十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-70
+    span:
+    - body
+    - 2496
+    - 2496
+  label: 第七十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-71
+    span:
+    - body
+    - 2530
+    - 2530
+  label: 第七十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-72
+    span:
+    - body
+    - 2563
+    - 2563
+  label: 第七十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-73
+    span:
+    - body
+    - 2598
+    - 2598
+  label: 第七十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-74
+    span:
+    - body
+    - 2625
+    - 2625
+  label: 第七十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-75
+    span:
+    - body
+    - 2652
+    - 2652
+  label: 第七十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-76
+    span:
+    - body
+    - 2684
+    - 2684
+  label: 第七十六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-77
+    span:
+    - body
+    - 2720
+    - 2720
+  label: 第七十七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-78
+    span:
+    - body
+    - 2748
+    - 2748
+  label: 第七十八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-79
+    span:
+    - body
+    - 2781
+    - 2781
+  label: 第七十九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0023_T_001-mulu-80
+    span:
+    - body
+    - 2814
+    - 2814
+  label: 第八十卷
+  type: mulu
+  level: 1
+hash: sha256:39b1ee1ac963d2b4633a69e05a4d7ce2d743cc81255fbb90f5e2f7bfa5b225c5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
